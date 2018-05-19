@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "PierceNg 5/13/2018 18:20",
+	"super" : "OFObject",
+	"category" : "OpenFootball",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"eventId",
+		"title",
+		"pos"
+	],
+	"name" : "OFGroup",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+I am the Glorp descriptor for OpenFootball.

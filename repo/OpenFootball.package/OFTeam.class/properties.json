@@ -1,0 +1,25 @@
+{
+	"commentStamp" : "PierceNg 5/13/2018 18:20",
+	"super" : "OFObject",
+	"category" : "OpenFootball",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"key",
+		"title",
+		"title2",
+		"code",
+		"synonyms",
+		"countryId",
+		"cityId",
+		"club",
+		"since",
+		"address",
+		"web",
+		"assocId",
+		"national"
+	],
+	"name" : "OFTeam",
+	"type" : "normal"
+}

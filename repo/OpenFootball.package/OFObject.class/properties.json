@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "PierceNg 5/13/2018 18:14",
+	"super" : "Object",
+	"category" : "OpenFootball",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pid",
+		"createdAt",
+		"updatedAt"
+	],
+	"name" : "OFObject",
+	"type" : "normal"
+}

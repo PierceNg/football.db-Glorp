@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "PierceNg 5/19/2018 23:19",
+	"super" : "OFObject",
+	"category" : "OpenFootball",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"team",
+		"group"
+	],
+	"name" : "OFTournamentTeam",
+	"type" : "normal"
+}

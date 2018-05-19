@@ -1,0 +1,1 @@
+I am a group (of teams) in OpenFootball.
