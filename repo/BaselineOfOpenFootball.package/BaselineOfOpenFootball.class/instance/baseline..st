@@ -6,7 +6,7 @@ baseline: spec
 		spec blessing: #'baseline'.
 
 		spec 
-			baseline: 'Glorp-SQLite3' with: [ spec repository: 'github://pharo-rdbms/glorp-sqlite3' ];
-			import: 'Glorp-SQLite3'.
+			baseline: 'GlorpSQLite' with: [ spec repository: 'github://pharo-rdbms/glorp-sqlite3' ];
+			import: 'GlorpSQLite'.
 
 		spec	package: 'OpenFootball' with: [ spec requires: #('Glorp-SQLite3') ]]
