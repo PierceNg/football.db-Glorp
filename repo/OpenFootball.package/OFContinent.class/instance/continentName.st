@@ -1,0 +1,3 @@
+accessing
+continentName
+	^ continentName

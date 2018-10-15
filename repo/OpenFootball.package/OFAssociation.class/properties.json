@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "PierceNg 5/13/2018 18:20",
+	"commentStamp" : "PierceNg 10/15/2018 22:06",
 	"super" : "OFObject",
 	"category" : "OpenFootball",
 	"classinstvars" : [ ],
@@ -8,18 +8,13 @@
 	"instvars" : [
 		"key",
 		"title",
-		"title2",
-		"code",
-		"synonyms",
-		"country",
-		"cityId",
-		"club",
 		"since",
-		"address",
 		"web",
-		"association",
-		"national"
+		"country",
+		"national",
+		"continental",
+		"interContinental"
 	],
-	"name" : "OFTeam",
+	"name" : "OFAssociation",
 	"type" : "normal"
 }

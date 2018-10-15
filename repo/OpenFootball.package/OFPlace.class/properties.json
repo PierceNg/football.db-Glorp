@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "PierceNg 10/14/2018 18:27",
+	"super" : "OFObject",
+	"category" : "OpenFootball",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"placeName",
+		"kind",
+		"latitude",
+		"longitude"
+	],
+	"name" : "OFPlace",
+	"type" : "normal"
+}

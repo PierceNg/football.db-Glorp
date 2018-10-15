@@ -1,0 +1,1 @@
+I am the Smalltalk class for the table PLACES.

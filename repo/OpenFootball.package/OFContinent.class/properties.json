@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "PierceNg 10/14/2018 18:35",
+	"super" : "OFObject",
+	"category" : "OpenFootball",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"continentName",
+		"slug",
+		"key",
+		"place",
+		"alternateNames"
+	],
+	"name" : "OFContinent",
+	"type" : "normal"
+}

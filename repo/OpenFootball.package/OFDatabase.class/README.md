@@ -1,0 +1,1 @@
+I am the database interface object for OpenFootball. I respond to "API" messages.
