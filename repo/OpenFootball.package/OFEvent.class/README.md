@@ -1,1 +1,1 @@
-I am an event in OpenFootball.
+I am the Smalltalk class for the table EVENTS.

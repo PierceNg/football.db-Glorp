@@ -1,7 +1,6 @@
 metadata
 classModelForOFEvent: aClassModel
 
-	super classModelFor: aClassModel.
 	self virtualClassModelForOFObject: aClassModel.
 	aClassModel newAttributeNamed: #key type: String.
 	"#leagueId refers to the primary key for LEAGUES; not mapped, kept as integer."

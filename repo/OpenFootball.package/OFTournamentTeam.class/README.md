@@ -1,1 +1,0 @@
-I am a team in OpenFootball that belongs to a group (of a tournament).

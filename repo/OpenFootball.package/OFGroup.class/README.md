@@ -1,1 +1,1 @@
-I am a group (of teams) in OpenFootball.
+I am the Smalltalk class for the table GROUPS.

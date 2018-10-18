@@ -1,7 +1,6 @@
 metadata
 classModelForOFTeam: aClassModel
 
-	super classModelFor: aClassModel.
 	self virtualClassModelForOFObject: aClassModel.
 	aClassModel newAttributeNamed: #key type: String.
 	aClassModel newAttributeNamed: #title type: String.
